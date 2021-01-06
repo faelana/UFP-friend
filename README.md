@@ -1,1 +1,1 @@
-# UFP-friend
+# UnixFilePermissions-friend
